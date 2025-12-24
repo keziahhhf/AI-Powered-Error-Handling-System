@@ -64,12 +64,13 @@ This project provides an interactive **Streamlit-based portal** where users can 
 <!-- Embed the Output pictures -->
 
 #### **Output 1 – Code Execution Interface**
+<img width="1600" height="680" alt="s-blob-v1-IMAGE-PE4s8BYj4b8" src="https://github.com/user-attachments/assets/4d7d6a67-917e-4abd-b685-7dd08bbb1ac3" />
 
-![Code Execution Output](https://github.com/<<yourusername>>/AI-Powered-Error-Handling-System/assets/your-image-id)
 
 #### **Output 2 – AI Error Explanation**
+<img width="1915" height="868" alt="s-blob-v1-IMAGE-Yhdh-l1DeFw" src="https://github.com/user-attachments/assets/9040fa83-f0cc-49b4-b629-440e3cf47e0a" />
 
-![AI Explanation Output](https://github.com/<<yourusername>>/AI-Powered-Error-Handling-System/assets/your-image-id)
+ 
 
 **Error Detection Accuracy:** High accuracy for common syntax and runtime errors
 *Note: Accuracy may vary based on code complexity and AI model response.*
