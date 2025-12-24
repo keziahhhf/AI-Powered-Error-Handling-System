@@ -54,8 +54,8 @@ This project provides an interactive **Streamlit-based portal** where users can 
 ## **System Architecture**
 
 <!-- Embed the system architecture diagram -->
+<img width="465" height="530" alt="s-blob-v1-IMAGE-GeJGZUOiuXU" src="https://github.com/user-attachments/assets/8adb2d81-442f-489c-a1f8-3ed06e36d035" />
 
-![System Architecture Diagram](https://github.com/<<yourusername>>/AI-Powered-Error-Handling-System/assets/your-image-id)
 
 ---
 
