@@ -5,7 +5,7 @@ import os
 from groq import Groq
 
 # -------------------- API KEY --------------------
-groq_client = Groq(api_key=st.secrets["GROQ_API_KEY"])
+groq_client = Groq(api_key=st.secrets["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"])
 
 # -------------------- Default code per language --------------------
 default_code = {
